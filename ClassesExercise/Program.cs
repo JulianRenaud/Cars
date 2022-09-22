@@ -4,10 +4,10 @@ using System.Reflection;
 
 var Car_1 = new Car();
 
-Car_1.Price = "$123,000";
+Car_1.Price = "$3.85 M";
 Car_1.Brand = "Corvette";
-Car_1.Model = "ZR1";
-Car_1.Year = 2022;
+Car_1.Model = "L88 Coupe";
+Car_1.Year = 1967;
 Car_1.Horsepower = 755;
 
 
