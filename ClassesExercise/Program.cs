@@ -4,16 +4,15 @@ using System.Reflection;
 
 var Car_1 = new Car();
 
-Car_1.Price = "$3.85 M";
-Car_1.Brand = "Corvette";
-Car_1.Model = "L88 Coupe";
-Car_1.Year = 1967;
-Car_1.Horsepower = 755;
+Car_1.Price = "$1.2M";
+Car_1.Brand = "Venom GT";
+Car_1.Model = "Hennessy";
+Car_1.Year = 2011-2017;
+Car_1.Horsepower = 1817;
 
 
 
 Console.WriteLine($"Starting Price: {Car_1.Price}");
 Console.WriteLine($"Year: {Car_1.Year}");
-Console.WriteLine($"Brand: {Car_1.Brand}");
-Console.WriteLine($"Model: {Car_1.Model}");
+Console.WriteLine($"Brand: {Car_1.Brand}"); 
 Console.WriteLine($"Horsepower: {Car_1.Horsepower}");
